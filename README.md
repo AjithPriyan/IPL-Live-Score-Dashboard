@@ -16,10 +16,6 @@ This project is a dynamic and interactive IPL Live Scorecard Dashboard built usi
 
 **5. Visual Insights:** Comprehensive and visually appealing charts and tables to track match progress and team standings.
 
-## Dataset
-
-https://github.com/AjithPriyan/Sales-Dashboard/blob/main/Sales%20Data.xlsx
-
 ## Technologies Used
 
 **1. Power BI:** Data visualization and interactive dashboard creation.
